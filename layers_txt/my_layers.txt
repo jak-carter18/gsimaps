@@ -11,15 +11,6 @@
       "cocotile": true,
       "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
       "html": "<a href='https://github.com/jak-carter18/gsimaps/blob/gh-pages/layers_txt/my_layers.txt'>編集</a>"
-    },
-    {
-    "type":"Layer",
-    "id":"example231",
-    "title:"8月縦走",
-    "url":"http://jak-carter18.github.io/gsimaps/example231/{Z}/{x}/{y}.geojson",
-    "html": "<a href='https://github.com/jak-carter18/gsimaps/blob/gh-pages/layers_txt/my_layers.txt'>編集</a>"
-    "maxZoom2:18,
-    "maxNativeZoom":2
     }
   ]
 }
